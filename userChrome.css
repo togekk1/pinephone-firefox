@@ -1,0 +1,3 @@
+:root:not([chromehidden~="toolbar"]) {
+    min-width: 50px;
+}
